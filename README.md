@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Solar System Tour
 
 A 72-second looping flight through the solar system, written entirely as a [Shadertoy](https://www.shadertoy.com/) shader with its own generated soundtrack. The camera starts at the Sun, circles each planet, warps through space to the next one, and finishes back at the Sun, so the animation loops seamlessly.
@@ -113,3 +114,7 @@ MacOS with Apple M5 chip on chrome browser at 60fps
 ## Author
 
 Meghan Collins
+=======
+# SolarSystemTour
+FILL IN LATER
+>>>>>>> 7f6dd9ba878596fd35892a708dc16f3190442703
